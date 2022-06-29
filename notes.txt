@@ -1,0 +1,19 @@
+ "name": "men shoe",
+  "category": "shoes",
+  "price": 699,
+  "description": "Typically made of black or brown leather, fastened with laces and not rising above the ankle",
+  "url": "https://www.shopcrocs.in/media/catalog/product/2/0/206062_07i_alt140.jpg?optimize=medium&bg-color=255%2C255%2C255&fit=cover&height=375&width=840&auto=webp&format=pjpg"
+
+
+   "name": "Men Shirt",
+  "category": "men shirts",
+  "price": "799",
+  "description": "Elegant and simplistic, the dress shirt is exactly what you need when you're aiming to impress. It is typically thicker than a regular shirt",
+  "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT51NyKg-YWH1dWQMx-VjZRQifjKP0KPqTmsg&usqp=CAU"
+
+
+    "name": "Necklace",
+  "category": "Jewellary",
+  "price": 1099,
+  "description": "Explore NAV Jewellers board , See more ideas about photo jewelry, gold earrings designs, gold jewelry fashion.",
+  "url": "https://image.reliancejewels.com/Jewels/media/rjimages/showroomjewelleryimg.jpg"
